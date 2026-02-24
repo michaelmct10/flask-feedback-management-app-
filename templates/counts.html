@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}Feedback Counts{% endblock %}
+
+{% block page_content %}
+<div class="container">
+    <h1>Feedback Counts</h1>
+
+    <ul>
+        <li><strong>Appendix:</strong> {{ appendix_count }}</li>
+        <li><strong>Abstract:</strong> {{ abstract_count }}</li>
+        <li><strong>Executive Summary:</strong> {{ executive_summary_count }}</li>
+    </ul>
+
+    <a href="{{ url_for('feedback.view_feedback') }}" class="btn btn-primary mt-3">Back to Feedback Dashboard</a>
+</div>
+{% endblock %}

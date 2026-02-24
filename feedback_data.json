@@ -1,0 +1,112 @@
+[
+    {
+        "Id": "1",
+        "Category": "Structure, Presentation and Layout",
+        "Description": "An appendix should have been included.",
+        "Related Section": "Appendix",
+        "Resolved Status": "Yes",
+        "Priority Level": "High",
+        "Created Date": "02/11/2024",
+        "Last Updated Date": "02/11/2024",
+        "Assigned To": "Jane Smith"
+    },
+    {
+        "Id": "2",
+        "Category": "Structure, Presentation and Layout",
+        "Description": "More use should have been made of the appendix, to de-clutter the document.",
+        "Related Section": "Appendix",
+        "Resolved Status": "Yes",
+        "Priority Level": "Medium",
+        "Created Date": "03/11/2024",
+        "Last Updated Date": "03/11/2024",
+        "Assigned To": "Alice Johnson"
+    },
+    {
+        "Id": "3",
+        "Category": "Structure, Presentation and Layout",
+        "Description": "The appendix should be split into a number of appendices to reflect the different aspects within its overall contents.",
+        "Related Section": "Appendix",
+        "Resolved Status": "No",
+        "Priority Level": "Low",
+        "Created Date": "04/11/2024",
+        "Last Updated Date": "04/11/2024",
+        "Assigned To": "Bob Williams"
+    },
+    {
+        "Id": "4",
+        "Category": "Structure, Presentation and Layout",
+        "Description": "The appendix is excessively large and requires rationalisation of the material included.",
+        "Related Section": "Appendix",
+        "Resolved Status": "Yes",
+        "Priority Level": "Medium",
+        "Created Date": "05/11/2024",
+        "Last Updated Date": "05/11/2024",
+        "Assigned To": "George Brown"
+    },
+    {
+        "Id": "5",
+        "Category": "Structure, Presentation and Layout",
+        "Description": "Vital material, meritorious of inclusion in the main document, has been relegated to the appendix.",
+        "Related Section": "Appendix",
+        "Resolved Status": "No",
+        "Priority Level": "Medium",
+        "Created Date": "06/11/2024",
+        "Last Updated Date": "06/11/2024",
+        "Assigned To": "Henry Taylor"
+    },
+    {
+        "Id": "6",
+        "Category": "Completeness",
+        "Description": "No abstract has been included although one was expected/required.",
+        "Related Section": "Abstract",
+        "Resolved Status": "No",
+        "Priority Level": "High",
+        "Created Date": "07/11/2024",
+        "Last Updated Date": "07/11/2024",
+        "Assigned To": "John Bert"
+    },
+    {
+        "Id": "7",
+        "Category": "Completeness",
+        "Description": "No executive summary has been included although this was an expected/required feature.",
+        "Related Section": "Executive Summary",
+        "Resolved Status": "No",
+        "Priority Level": "Low",
+        "Created Date": "08/11/2024",
+        "Last Updated Date": "08/11/2024",
+        "Assigned To": "Barry Barns"
+    },
+    {
+        "Id": "8",
+        "Category": "Length and Formatting",
+        "Description": "The abstract is not of an appropriate length; It should typically be 150-250 words and should fit comfortably on a single side of A4.",
+        "Related Section": "Abstract",
+        "Resolved Status": "Yes",
+        "Priority Level": "Low",
+        "Created Date": "09/11/2024",
+        "Last Updated Date": "09/11/2024",
+        "Assigned To": "Molly Smith"
+    },
+    {
+        "Id": "9",
+        "Category": "Structure and Clarity",
+        "Description": "The abstract is not properly constructed; There should be no repetition; The text should flow logically; The abstract should succinctly summarise the entire document including final outcomes and conclusions; Quantitative findings should also be summarised; Abstracts are best written when the other work has been completed; Refereed Journals provide good sources for exemplars.",
+        "Related Section": "Abstract",
+        "Resolved Status": "No",
+        "Priority Level": "Medium",
+        "Created Date": "10/11/2024",
+        "Last Updated Date": "10/11/2024",
+        "Assigned To": "Anna Hamilton"
+    },
+    {
+        "Id": "10",
+        "Category": "Detail and Quality",
+        "Description": "The executive summary is not properly constructed; It should be 3-5 times the length of the abstract and should contain more detail, throughout, while avoiding repetition and peripheral detail; upon reading the abstract and executive summary, the reader should have a good grasp of the underlying topic(s)/themes, what has been achieved, the resulting conclusions, the important outcomes, the principal quantitative outcomes and the relevance of the work in a wider context.",
+        "Related Section": "Executive Summary",
+        "Resolved Status": "Yes",
+        "Priority Level": "High",
+        "Created Date": "11/11/2024",
+        "Last Updated Date": "11/11/2024",
+        "Assigned To": "Summer Finley"
+    }
+]
