@@ -3,6 +3,7 @@
 A full-stack Flask web application for managing feedback entries through a web UI and REST-style API endpoints.
 
 ## Features
+
 - Create, view, edit and delete feedback (CRUD)
 - Dashboard with filtering + sorting
 - Pagination for large datasets
@@ -11,6 +12,7 @@ A full-stack Flask web application for managing feedback entries through a web U
 - Automated tests using pytest
 
 ## Tech Stack
+
 - Python + Flask
 - SQLAlchemy (ORM)
 - SQLite
@@ -18,11 +20,12 @@ A full-stack Flask web application for managing feedback entries through a web U
 - pytest
 
 ## Project Structure
-- `app.py` — app entry point
-- `feedback/` — blueprint (routes + models)
-- `templates/` — HTML templates
-- `static/` — JS/CSS/images
-- `tests.py` — automated tests
+
+- `app.py` — app entry point  
+- `feedback/` — blueprint (routes + models)  
+- `templates/` — HTML templates  
+- `static/` — JS/CSS/images  
+- `tests.py` — automated tests  
 
 ## Run locally (basic)
 
@@ -33,4 +36,8 @@ pip install flask flask_sqlalchemy flask_bootstrap pytest
 python3 app.py
 ```
 
-Open: `http://127.0.0.1:5000/feedback`
+Open in browser:
+
+```
+http://127.0.0.1:5000/feedback
+```
